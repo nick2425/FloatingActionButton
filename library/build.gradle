@@ -35,7 +35,7 @@ publish {
     userOrg = 'nick2425'
     groupId = 'com.sureware'
     artifactId = 'floatingactionbutton'
-    publishVersion = "1.7.0"
+    publishVersion = project.VERSION_NAME
     licences = ['MIT']
     desc = "Custom FAB with menu."
     website = 'https://github.com/nick2425/FloatingActionButton'
